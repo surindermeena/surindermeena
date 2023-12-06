@@ -3,7 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 
 
-<a href="https://www.linkedin.com/in/surinder-meena-73674975"><img alt="12" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>   <a href="https://web.whatsapp.com/send?phone=7206816640&text&app_absent=0"><img alt="12" align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>   <a href="mailto:surinder321992@gmail.com"><img alt="12" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/surinder-meena-73674975"><img alt="12" align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>   <a target="_blank" href="https://web.whatsapp.com/send?phone=7206816640&text&app_absent=0"><img alt="12" align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>   <a target="_blank" href="mailto:surinder321992@gmail.com"><img alt="12" align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
 ---
